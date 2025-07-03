@@ -2,7 +2,7 @@
 
 ## 📌 Información General
 
-- **Título:** Estructuras No Lineales
+- **Título:** sets
 - **Asignatura:** Estructura de Datos
 - **Carrera:** Computación
 - **Estudiante:** Ivanna Nievecela
